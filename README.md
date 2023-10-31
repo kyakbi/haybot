@@ -1,1 +1,4 @@
+wirte
+read
+
 # test1
